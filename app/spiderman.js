@@ -7,7 +7,7 @@ class Spiderman {
         this.studio = studio
     }
     getInfo(){
-        return `Hey, I'm ${this.name} from ${this.studio}`
+        return `Hey, I'm ${this.name} from ${this.studio} studio`
     }
 }
 
